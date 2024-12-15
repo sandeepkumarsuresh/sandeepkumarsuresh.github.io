@@ -9,7 +9,7 @@ layout: home
 
 Hello! I am a part-time M.S Student in the department of Electrical Engineering at [IIT Madras](https://www.iitm.ac.in/) where I am guided by [Gaurav Raina](https://www.ee.iitm.ac.in/faculty/profile/g.raina).
 
-My Research Interest lies are towards Multimodal Large Language Models and AI Agents.
+My research interests focus on Multimodal Large Language Models and AI Agents.
 
 Currently I'm working as a Project Associate at Center for Excellence in Energy and Telecommunications in [IIT Madras Research Park](https://respark.iitm.ac.in/) where I build AI solutions to Indian Problems.  
 
