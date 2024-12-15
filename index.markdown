@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
-
+layout: home
 ---
+
 ![alt text](/static/20240814_090648.jpg "Title")
 
 Hello! I am a part-time M.S Student in the department of Electrical Engineering at [IIT Madras](https://www.iitm.ac.in/) where I am guided by [Gaurav Raina](https://www.ee.iitm.ac.in/faculty/profile/g.raina).
