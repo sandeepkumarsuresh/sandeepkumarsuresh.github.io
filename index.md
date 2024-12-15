@@ -3,6 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: About Me
+
 ---
 
 ![alt text](/static/20240814_090648.jpg "Title")
